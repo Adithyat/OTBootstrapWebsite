@@ -292,6 +292,7 @@ section h3.section-subheading {
   font-style: italic;
   font-weight: 400;
   margin-bottom: 25px;
+  color: white;
 }
 @media (min-width: 768px) {
   section {
@@ -348,6 +349,7 @@ section h3.section-subheading {
   background-color: white;
   text-align: center;
   padding: 0px;
+  background-color: #eeeeee;
 }
 #brother .brother-item .brother-caption h4 {
   text-transform: none;
