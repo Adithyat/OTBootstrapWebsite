@@ -1,2 +1,2 @@
-# OTBootstrapWebsite
-View a demo of the BootStrap website at https://adithyat.github.io/OTBootstrapWebsite/
+# Theta Tau Website
+View a demo of the BootStrap website at https://adithyat.github.io/ThetaTau/
